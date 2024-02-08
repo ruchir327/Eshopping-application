@@ -4,6 +4,9 @@
   "description": "Ecommerce API with NodeJS and MongoDB",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "node index.js"
   },
